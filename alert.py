@@ -168,4 +168,3 @@ if __name__ == "__main__":
     while True:
         monitor_index()
         time.sleep(10)
-readme okay here
